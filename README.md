@@ -7,9 +7,9 @@ There are plenty resources kicking about but here are some tips and pitfalls as 
 
 Setup:\
 As the [setup guide](http://phaser.io/tutorials/getting-started-phaser3) on the official Phaser site says, get set up for normal web development.\
-I'm on a Mac so I use Unix commands in Terminal. (I intend to post an intro to commandline elsewhere)\
+I'm on a Mac so I use Unix commands in Terminal.\
 I use Visual Studio Code because it's new and sexy.\
-Macs come with Python and its local server so I used that.
+Macs come with Python2 and its local server so I used that.
 `python -m SimpleHTTPServer`
 
 I also find these additional tools handy:\
@@ -22,10 +22,7 @@ Aaand if you want to download all of those instead of clicking each link, try th
 []
 For the particle demo (in the Readme of Phaser's GitHub as well as Phaser's site) it's pretty much a copy/paste of the code. You are encouraged to fiddle to understand the features.
 
-
 And now the [first game tutorial](http://phaser.io/tutorials/making-your-first-phaser-3-game)\
 One thing the tutorial does not explain clearly is the demo code links the assets to local folders you probably dont have. So either\
 a) make them so the code works. Or\
 b) edit the paths. Here you can select the text and hammer cmd+d to select the next occurences. Delete.
-
-
