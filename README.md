@@ -7,7 +7,7 @@ Hello, Collective!
 
 There are plenty resources kicking about but this is some tips and pitfalls as I found them.
 
-Setup:  
+Setup:\
 As the guide on the official Phaser site said, get set up for web development.
 I use Visual Studio Code because it's new and sexy.
 I'm on a Mac so I use Unix commands in Terminal. (I intend to post an intro to commandline elsewhere)
@@ -20,5 +20,9 @@ Notice the assets are linked in from a CDN (content delivery network), basically
 https://labs.phaser.io/assets/
 
 
-And now the first game
-One thing the tutorial does
+And now the [first game tutorial](http://phaser.io/tutorials/making-your-first-phaser-3-game)\
+One thing the tutorial does not explain clearly is the demo code links the assets to local folders you probably dont have. So either\
+a) make them so the code works. Or\
+b) edit the paths. Here you can select the text and hammer cmd+d to select the next occurences. Delete.
+
+
