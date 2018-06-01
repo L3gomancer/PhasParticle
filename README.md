@@ -22,6 +22,6 @@ Aaand if you want to download all of those instead of clicking each link, try th
 For the particle demo (on Phaser's [site](http://phaser.io/tutorials/getting-started-phaser3/part5) and [GitHub](https://github.com/photonstorm/phaser)) it's pretty much a copy/paste of the code and the assets are hosted online. You are encouraged to fiddle to understand the features.
 
 And now the [first game tutorial](http://phaser.io/tutorials/making-your-first-phaser-3-game)\
-One thing the tutorial does not explain clearly is the demo code links the assets to local folders you probably dont have `src/gm/assets/space3.png`. So either\
+One thing the tutorial does not explain clearly is the demo code links the assets to local folders you probably dont have `src/games/firstgame/assets/space3.png`. So either\
 a) create the right folders. Or\
 b) edit the paths. Here you can select the text and hammer cmd+d to select the next occurences. Delete.
