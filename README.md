@@ -10,8 +10,9 @@ As the [setup guide](http://phaser.io/tutorials/getting-started-phaser3) on the 
 I'm on a Mac so I use Unix commands in Terminal.\
 I use Visual Studio Code because it's new and sexy.\
 Macs come with Python2 and its local server so I used that.
-`python -m SimpleHTTPServer`
-Otherwise to use the suggested 'http-server' you can use NPM which comes with the NodeJS installer, and to update Node itself I use ["n"](https://www.npmjs.com/package/n)\
+`python -m SimpleHTTPServer`\
+Otherwise NodeJS comes with NPM to install suggested ['http-server'](https://www.npmjs.com/package/http-server)\
+And to update Node itself I use ["n"](https://www.npmjs.com/package/n)\
 And [Homebrew](https://brew.sh) for other commandline packages
 
 I also find these additional tools handy:\
