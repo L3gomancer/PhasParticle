@@ -11,10 +11,12 @@ I'm on a Mac so I use Unix commands in Terminal.\
 I use Visual Studio Code because it's new and sexy.\
 Macs come with Python2 and its local server so I used that.
 `python -m SimpleHTTPServer`
+Otherwise to use the suggested 'http-server' you can use NPM which comes with the NodeJS installer, and to update Node itself I use ["n"](https://www.npmjs.com/package/n)\
+And [Homebrew](https://brew.sh) for other commandline packages
 
 I also find these additional tools handy:\
 [ImageMagick](http://www.imagemagick.org/Usage/crop/#crop_equal) is a venerable commandline image editor, you can automate cropping sprite sheets\
-Or use a 'proper' image editor. Here's an online one called [Pixlr](https://pixlr.com/web)
+Or use a 'proper' image editor. Here's an online one called [Pixlr](https://pixlr.com/web)\
 [Spriter's Resource](https://www.spriters-resource.com/) for sprite sheets from games\
 Phaser hosts [a ton of other assets](https://labs.phaser.io/assets/) themselves\
 Aaand if you want to download all of those instead of clicking each link, try the Chrome extension ['Image Downloader'](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj)
