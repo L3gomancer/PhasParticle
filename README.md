@@ -11,7 +11,7 @@ I use Visual Studio Code for a text editor because it's new and sexy.\
 For a local server you could use the one that comes with the pre-installed Python 2 bundle on Mac. Start it with this command in Terminal: `python -m SimpleHTTPServer`\
 I chose to use a local server in NodeJS, installed with NPM [http-server](https://www.npmjs.com/package/http-server)\
 Tip: to update Node itself I use ["n"](https://www.npmjs.com/package/n)\
-Tip: to add more commands to Terminal I use [Homebrew](https://brew.sh)\
+Tip: to add more commands to Terminal I use [Homebrew](https://brew.sh)
 
 I also find these additional tools handy:\
 [ImageMagick](http://www.imagemagick.org/Usage/crop/#crop_equal) is an image editor for commandline. Good for cropping sprite sheets in bulk\
